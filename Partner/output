@@ -1,0 +1,75 @@
+nohup: ignoring input
+[0mGET / [36m304 [0m7.532 ms - -[0m
+[0mGET /bootstrap.min.css [36m304 [0m1.859 ms - -[0m
+[0mGET /style.css [36m304 [0m0.658 ms - -[0m
+[0mGET /script.js [36m304 [0m0.479 ms - -[0m
+[0mGET /resources/title.png [36m304 [0m1.287 ms - -[0m
+[0mGET /Photoshopped/MC.png [36m304 [0m0.295 ms - -[0m
+[0mGET /resources/placeholder.png [36m304 [0m0.507 ms - -[0m
+[0mGET /resources/background.jpg [36m304 [0m0.358 ms - -[0m
+[0mGET /resources/disclaimerpatch.jpg [36m304 [0m0.691 ms - -[0m
+In Students
+[0mGET /students [32m200 [0m6.175 ms - 27617[0m
+[0mGET /Photoshopped/ChunyuLiao.png [32m200 [0m2.668 ms - 82760[0m
+[0mGET / [36m304 [0m0.500 ms - -[0m
+[0mGET /bootstrap.min.css [36m304 [0m0.431 ms - -[0m
+[0mGET /style.css [36m304 [0m0.196 ms - -[0m
+[0mGET /script.js [36m304 [0m0.324 ms - -[0m
+[0mGET /resources/title.png [36m304 [0m0.716 ms - -[0m
+[0mGET /Photoshopped/MC.png [36m304 [0m0.402 ms - -[0m
+[0mGET /resources/placeholder.png [36m304 [0m0.381 ms - -[0m
+[0mGET /resources/background.jpg [36m304 [0m0.435 ms - -[0m
+[0mGET /resources/disclaimerpatch.jpg [36m304 [0m0.215 ms - -[0m
+In Students
+[0mGET /students [36m304 [0m4.634 ms - -[0m
+[0mGET /Photoshopped/DavidOstler.png [32m200 [0m1.162 ms - 175015[0m
+[0mGET / [36m304 [0m0.426 ms - -[0m
+[0mGET /bootstrap.min.css [36m304 [0m0.306 ms - -[0m
+[0mGET /style.css [36m304 [0m0.250 ms - -[0m
+[0mGET /script.js [36m304 [0m0.188 ms - -[0m
+[0mGET /resources/title.png [36m304 [0m0.240 ms - -[0m
+[0mGET /Photoshopped/MC.png [36m304 [0m0.236 ms - -[0m
+[0mGET /resources/placeholder.png [36m304 [0m0.247 ms - -[0m
+[0mGET /resources/background.jpg [36m304 [0m1.471 ms - -[0m
+[0mGET /resources/disclaimerpatch.jpg [36m304 [0m2.825 ms - -[0m
+[0mGET /resources/title.png [32m200 [0m1.555 ms - 190012[0m
+In Students
+[0mGET /students [36m304 [0m3.662 ms - -[0m
+[0mGET /Photoshopped/JordanNielson.png [32m200 [0m1.143 ms - 76101[0m
+[0mGET / [36m304 [0m0.543 ms - -[0m
+[0mGET /bootstrap.min.css [36m304 [0m0.424 ms - -[0m
+[0mGET /style.css [36m304 [0m0.254 ms - -[0m
+[0mGET /script.js [36m304 [0m0.252 ms - -[0m
+[0mGET /Photoshopped/MC.png [36m304 [0m0.208 ms - -[0m
+[0mGET /resources/placeholder.png [36m304 [0m0.274 ms - -[0m
+[0mGET /resources/background.jpg [36m304 [0m1.490 ms - -[0m
+[0mGET /resources/disclaimerpatch.jpg [36m304 [0m0.538 ms - -[0m
+[0mGET /resources/title.png [32m200 [0m0.731 ms - 190012[0m
+In Students
+[0mGET /students [36m304 [0m1.486 ms - -[0m
+[0mGET / [36m304 [0m1.224 ms - -[0m
+[0mGET /bootstrap.min.css [36m304 [0m0.343 ms - -[0m
+[0mGET /style.css [36m304 [0m0.253 ms - -[0m
+[0mGET /script.js [36m304 [0m0.248 ms - -[0m
+[0mGET /resources/title.png [36m304 [0m0.213 ms - -[0m
+[0mGET /Photoshopped/MC.png [36m304 [0m0.235 ms - -[0m
+[0mGET /resources/placeholder.png [36m304 [0m0.331 ms - -[0m
+[0mGET /resources/background.jpg [36m304 [0m0.238 ms - -[0m
+[0mGET /resources/disclaimerpatch.jpg [36m304 [0m0.303 ms - -[0m
+[0mGET /resources/title.png [32m200 [0m1.599 ms - 190012[0m
+In Students
+[0mGET /students [36m304 [0m1.559 ms - -[0m
+[0mGET /Photoshopped/NicholasFlynn.png [32m200 [0m0.530 ms - 232069[0m
+[0mGET / [36m304 [0m0.546 ms - -[0m
+[0mGET /bootstrap.min.css [36m304 [0m0.887 ms - -[0m
+[0mGET /style.css [36m304 [0m0.240 ms - -[0m
+[0mGET /script.js [36m304 [0m0.659 ms - -[0m
+[0mGET /resources/title.png [36m304 [0m0.638 ms - -[0m
+[0mGET /Photoshopped/MC.png [36m304 [0m0.464 ms - -[0m
+[0mGET /resources/placeholder.png [36m304 [0m0.249 ms - -[0m
+[0mGET /resources/background.jpg [36m304 [0m0.233 ms - -[0m
+[0mGET /resources/disclaimerpatch.jpg [36m304 [0m0.713 ms - -[0m
+[0mGET /resources/title.png [32m200 [0m0.579 ms - 190012[0m
+In Students
+[0mGET /students [36m304 [0m1.868 ms - -[0m
+[0mGET /Photoshopped/NathanFox.png [33m404 [0m368.244 ms - 1085[0m
